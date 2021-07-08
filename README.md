@@ -2,7 +2,7 @@
 
 **Custom chromecast receiver to display webpages without tab casting**
 
-Try it with the [sender demo](https://demille.github.io/url-cast-receiver).
+Try it with the [sender demo](https://anand-ios.github.io/url-cast-receiver/).
 
 ## Usage
 
